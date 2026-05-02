@@ -1,20 +1,28 @@
-## Hi there 👋
-I am Sushmita,my background is in Statistics and Data Science ,my primary work is to derive meaning out of the data.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<div align="center">
 
-<!--
-**SushmitaTalla/SushmitaTalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Talla Sushmita
 
-Here are some ideas to get you started:
+### Data Analyst · SQL & Python · ETL Pipelines · Predictive Analytics · Dashboard Design
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm a passionate **Data Analyst and aspiring Data Scientist** holding a postgraduate degree in M.Sc. Data Science at Osmania University, Hyderabad. My special interest lies at the intersection of raw data and actionable insight — transforming messy, complex datasets into clear narratives that drive relevant business decisions that solve business problems rather than theoretical ones that add no value.
+
+My analytical journey spans **financial fraud detection**, **retail intelligence**, **cybersecurity threat identification**, and **vendor performance optimization**. I bring equal enthusiasm to the statistics behind understanding data , mathematics behind the models and the storytelling that makes results stakeholders understand.
+
+> *"Data is not just numbers — it's the language businesses use to describe their reality. My job is to translate it."*
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| 🎓 M.S. in Data Science | Osmania University, Hyderabad | Jun 2023 – Aug 2025 |
+| 🎓 B.S. in Mathematics, Statistics & Computer Science | Little Flower Degree College | Aug 2020 – Jun 2023 |
+
+---
+</div>
